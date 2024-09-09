@@ -13,5 +13,6 @@
 
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="los" revision="lineage-21" />
     <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="los" revision="lineage-21" />
+    <project path="device/lineage/sepolicy" name="android_device_lineage_sepolicy" remote="los" revision="lineage-21" />
 
 </manifest>
