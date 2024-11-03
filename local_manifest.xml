@@ -11,5 +11,6 @@
     <project path="kernel/xiaomi/sdm845" name="android_kernel_xiaomi_sdm845" remote="rve" revision="14" sync-s="true" />
     <project path="vendor/miuicamera" name="vendor_miuicamera" remote="rve" revision="14" />
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="los" revision="lineage-21" />
+    <project path="vendor/lineage-priv/keys" name="vendor_lineage-priv_keys" remote="rve" revision="orion" />
 
 </manifest>
